@@ -1,0 +1,7 @@
+# Игнорировать файлы salt.php и db_connect.php
+vendor/salt.php
+vendor/db_connect.php
+/.htaccess
+
+# Игнорировать папку js
+js/
